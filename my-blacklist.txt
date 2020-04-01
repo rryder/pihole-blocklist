@@ -1,0 +1,6 @@
+((^)|(\.))roblox\.
+((^)|(\.))rbxcdn\.
+((^)|(\.))discordapp\.
+((^)|(\.))discord\.
+((^)|(\.))youtube\.
+((^)|(\.))twitter\.
